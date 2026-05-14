@@ -1,6 +1,6 @@
 #include "../include/GameManager.h"
 #include "../include/ConcreteStates.h"
-#include <fstream>
+
 #include <iostream>
 #include <iomanip>
 #include <chrono>
